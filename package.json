@@ -1,0 +1,16 @@
+{
+  "name": "scheduler",
+  "version": "1.0.0",
+  "description": "The Simulation Website of CPU Scheduling Algorithms is a valuable educational tool designed to help users understand and experiment with various CPU scheduling algorithms. Here's a more detailed explanation of its features and benefits:",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Swarnjeet Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.3"
+  }
+}
