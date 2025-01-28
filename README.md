@@ -3,8 +3,11 @@ This project is a web-based CPU scheduler simulator built using HTML, CSS, and J
 
 Features:
 1.Simulate various CPU scheduling algorithms such as First-Come-First-Serve (FCFS), Shortest Job Next (SJN), Round Robin (RR), and more.
+
 2.Interactive user interface for easy input of processes and their respective burst times, arrival times, etc.
+
 3.Visual representation of how processes are scheduled and executed.
+
 4.Real-time calculations and results display, including waiting time, turnaround time, and Gantt charts.
 Technologies Used:
 HTML: For the structure and layout of the website.
