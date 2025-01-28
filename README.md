@@ -9,11 +9,17 @@ Features:
 3.Visual representation of how processes are scheduled and executed.
 
 4.Real-time calculations and results display, including waiting time, turnaround time, and Gantt charts.
+
 Technologies Used:
+
 HTML: For the structure and layout of the website.
+
 CSS: For styling and making the interface user-friendly and responsive.
+
 JavaScript: For the logic of simulating CPU scheduling algorithms and interacting with the user interface.
+
 Screenshots:
+
 Below are some screenshots of the CPU Scheduler Simulator in action:
 
 
@@ -28,7 +34,11 @@ Real-time calculation of waiting time, turnaround time, and other key results.
 ![image](https://github.com/user-attachments/assets/4061fc56-4e58-43db-a738-070caed01fcf)
 
 How to Use:
+
 Clone or download the repository.
+
 Open the index.html file in any modern browser.
+
 Enter the process details and select the desired scheduling algorithm.
+
 View the simulation results and Gantt chart visualization.
